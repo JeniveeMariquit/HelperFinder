@@ -172,6 +172,7 @@
         android:text="Job ID: 1"
         android:textColor="@color/colorGray"
         android:textSize="15dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.027"
