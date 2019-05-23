@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356348878320",
+    "firebase_url": "https://helperfinder2019.firebaseio.com",
+    "project_id": "helperfinder2019",
+    "storage_bucket": "helperfinder2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356348878320:android:df05742cfcbb07fc",
+        "android_client_info": {
+          "package_name": "mobapp.dntsjay.helperfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356348878320-uhrtlaln5nr637i8jtod22ue6rr7i2mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobapp.dntsjay.helperfinder",
+            "certificate_hash": "580793af5a6e2a364359122393eaa4af0e389431"
+          }
+        },
+        {
+          "client_id": "356348878320-i7s14m07j6oolvl0c7219elkslnk6o6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnglmuLiyl7jKBstHq2eRPru3X_dcn6wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356348878320-i7s14m07j6oolvl0c7219elkslnk6o6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
